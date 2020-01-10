@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion component opens clicked section 1`] = `
+<ul
+  className="Accordion"
+>
+  <li
+    className="accordionItem"
+    key="null"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Section 1
+    </button>
+  </li>
+  <li
+    className="accordionItem"
+    key="null"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Section 2
+    </button>
+  </li>
+  <li
+    className="accordionItem"
+    key="null"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Section 3
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`Accordion component opens one section at a time 1`] = `
+<ul
+  className="Accordion"
+>
+  <li
+    className="accordionItem"
+    key="null"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Section 1
+    </button>
+  </li>
+  <li
+    className="accordionItem"
+    key="null"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Section 2
+    </button>
+  </li>
+  <li
+    className="accordionItem"
+    key="null"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Section 3
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`Accordion component renders empty given no props without errors 1`] = `
+<ul
+  className="Accordion"
+/>
+`;
+
+exports[`Accordion component renders the no sections as default 1`] = `
+<ul
+  className="Accordion"
+>
+  <li
+    className="accordionItem"
+    key="null"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Section 1
+    </button>
+  </li>
+  <li
+    className="accordionItem"
+    key="null"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Section 2
+    </button>
+  </li>
+  <li
+    className="accordionItem"
+    key="null"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Section 3
+    </button>
+  </li>
+</ul>
+`;
